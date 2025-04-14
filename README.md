@@ -1,1 +1,2 @@
-# eg425s-lab3
+# eg281s-lab3
+Designing the Web UI View
